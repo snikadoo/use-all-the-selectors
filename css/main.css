@@ -17,3 +17,7 @@ nav > ul {
 #favs {color: #93a1a1}
 #facts {color: #93a1a1}
 #types {color: #93a1a1}
+.wrapper > .dfn {background-color: #eee8d5;}
+p + strong {coloe: #fff;}
+a:not(.no-highlight){background-color: #657ba3}
+[rel="external"] {background-color: #2694d8}
